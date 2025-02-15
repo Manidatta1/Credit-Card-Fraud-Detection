@@ -24,3 +24,5 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/FraudDetection.git
    cd FraudDetection
+
+**Dataset** : https://drive.google.com/file/d/1hx-hCpIN42vVvzxdSVE9-Sm_gROEE4S8/view?usp=share_link
