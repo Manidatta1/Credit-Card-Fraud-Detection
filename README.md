@@ -58,6 +58,6 @@ This project demonstrates how **Self-Organizing Maps (SOMs)** can be used for un
 
 ## 🧑‍💻 Author
 
-**Mani Datta**  
+**ManiDatta**  
 Data Science @ University of Colorado Boulder  
 [GitHub](https://github.com/Manidatta1)
