@@ -17,7 +17,7 @@ This project demonstrates how **Self-Organizing Maps (SOMs)** can be used for un
 ```
 📁 Self-Organizing-Maps
 ├── Self Organizing Maps (SOMs).ipynb  ← Main notebook
-├── 📊 Dataset
+├── 📊 Dataset - Credit_Card_Applications.xls
 └── README.md
 ```
 
