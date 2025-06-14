@@ -12,6 +12,10 @@ This project demonstrates how **Self-Organizing Maps (SOMs)** can be used for un
 
 ---
 
+![My Profile](Credit.png)
+
+---
+
 ## Folder Structure
 
 ```
